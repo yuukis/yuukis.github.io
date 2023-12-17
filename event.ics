@@ -1,4 +1,9 @@
 BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yamanashi.dev//山梨県ITイベントカレンダー//JP
+X-WR-CALDESC:山梨県で開催されるIT勉強会のカレンダー
+X-WR-CALNAME:IT勉強会 - 山梨県
+X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 SUMMARY:[Shingen.py] ワイン産地を支える! Pythonで山梨の気象
  データ分析とWeb公開
