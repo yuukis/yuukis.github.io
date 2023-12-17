@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:[Shingen.py] ワイン産地を支える! Pythonで山梨の気象
+ データ分析とWeb公開
+DTSTART:20240128T130000
+DTEND:20240128T190000
+DESCRIPTION:<p>この勉強会では、PythonのライブラリであるDj
+ angoとPandasを使用して、山梨県の気象データを分析し、
+ その結果をWeb上で公開します。これにより、ワイン産
+ 地である山梨県の気象情報の視覚化と共有を実現しま
+ す。<br><br>1. PythonとDjango、Pandasの基本<br>2. 山梨県の気
+ 象データの取得と前処理<br>3. データ分析と視覚化<br>4. 
+ Djangoを用いたWebサイトの作成<br>5. Webサイトへの分析結
+ 果の反映<br></p>\n<p><strong>これより上部は AI が生成した
+ 文章や画像です。</strong></p>\n<h1>概要</h1>\n<p><strong>ここ
+ から下は人間が書いた部分です。</strong></p>\n<p>この勉
+ 強会は ChatGPT でテーマから様々な部分を AI 生成いたし
+ ました。</p>\n<p>こちらは山梨県主催の AIハッカソン に
+ 私たち <a href="http://Shingen.py" rel="nofollow">Shingen.py</a> が協
+ 力者として参加した際に空いた時間でメンバーで作成
+ したツールです。テーマや勉強会の内容は AI ハッカソ
+ ン当日に一発勝負で AI によって生成されました。</p>\n<
+ ul>\n<li>参考 <a href="https://www.pref.yamanashi.jp/dx/yamanashi_ai_hac
+ kthon_event.html" rel="nofollow">Yamanashi AIハッカソン 2023</a></li>
+ \n</ul>\n<p>生成されたテーマは突拍子もないですが、人
+ の手でフォローしつつしっかりした勉強会を開催する
+ 予定です。</p>\n<h1>場所</h1>\n<ul>\n<li>山梨県立図書館 交
+ 流ルーム 102</li>\n<li>住所　山梨県甲府市北口2丁目8番1
+ 号</li>\n</ul>\n<h1>必要なもの</h1>\n<ul>\n<li>PC</li>\n<li>延長
+ コードや電源タップ (持っている方)</li>\n<li>ネット環境
+  (一応施設にもありますが、安定したネット環境が必要
+ な場合は携帯のテザリング等ご利用ください)</li>\n</ul>
+URL:https://shingenpy.connpass.com/event/304904/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第23回 富士もくもく会（オンライン）
+DTSTART:20231123T200000
+DTEND:20231123T220000
+DESCRIPTION:<h1>富士もくもく会</h1>\n<h2>オンライン開催</h2>
+ \n<p>今回はオンラインのみで参加を募集します。</p>\n<p>
+ 試験的に平日夜で開催いたします。</p>\n<h2>やること</h2
+ >\n<p>もくもくと個人作業に取り組みます。</p>\n<h2>オン
+ ライン会場</h2>\n<p><a href="https://discord.com/" rel="nofollow">Dis
+ cord</a>  を利用します。</p>\n<p>Discordのアカウントをお持
+ ちでない方がは、お手数ですが事前にアカウント登録
+ をお願いします。  </p>\n<p>参加を申し込んだ方に表示さ
+ れる『参加者への情報 』の欄に招待リンクを記載して
+ います。  </p>\n<p><a href="https://support.discord.com/hc/ja/articles
+ /360041721052-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%93%E3%83%87%E3%82
+ %AA" rel="nofollow">ビデオ通話</a>を利用します。</p>\n<h2>タ
+ イムスケジュール (仮)</h2>\n<p>途中入退室可です</p>\n<p>2
+ 0:00〜20:10 自己紹介</p>\n<p>20:10〜21:30 個人作業</p>\n<p>21:30
+ 〜22:00 成果発表 &amp\; LT</p>\n<h2>Lightning Talk発表者募集</h2
+ >\n<p>テーマはフリー、持ち時間は5分程度で発表者を募
+ 集します。<br>\n当日の個人作業とは全く関係のない話
+ でも何でも結構です。  </p>\n<h2>用意するもの</h2>\n<p>ご
+ 自身の作業に必要なものをご用意ください。</p>\n<ul>\n<l
+ i>PC</li>\n<li>本など</li>\n</ul>\n<h2>参加対象者</h2>\n<p>プロ
+ グラミングに限らず何かもくもくと個人作業をしたい
+ 方。<br>\nどなたのご参加も大歓迎です。  </p>\n<h2>参加
+ 申込</h2>\n<p>このページから参加をお申し込みください
+ 。<br>\n特別な事情によりもしイベント中止となった際
+ にはご登録のメールアドレスに連絡が送られます。</p>
+URL:https://fujimokumokukai.connpass.com/event/301783/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第22回 富士もくもく会 (オンライン)
+DTSTART:20230928T200000
+DTEND:20230928T220000
+DESCRIPTION:<h1>富士もくもく会</h1>\n<h2>オンライン開催</h2>
+ \n<p>今回はオンラインのみで参加を募集します。</p>\n<p>
+ 試験的に平日夜で開催いたします。</p>\n<h2>やること</h2
+ >\n<p>もくもくと個人作業に取り組みます。</p>\n<h2>オン
+ ライン会場</h2>\n<p><a href="https://discord.com/" rel="nofollow">Dis
+ cord</a>  を利用します。</p>\n<p>Discordのアカウントをお持
+ ちでない方がは、お手数ですが事前にアカウント登録
+ をお願いします。  </p>\n<p>参加を申し込んだ方に表示さ
+ れる『参加者への情報 』の欄に招待リンクを記載して
+ います。  </p>\n<p><a href="https://support.discord.com/hc/ja/articles
+ /360041721052-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%93%E3%83%87%E3%82
+ %AA" rel="nofollow">ビデオ通話</a>を利用します。</p>\n<h2>タ
+ イムスケジュール (仮)</h2>\n<p>途中入退室可です</p>\n<p>2
+ 0:00〜20:10 自己紹介</p>\n<p>20:10〜21:30 個人作業</p>\n<p>21:30
+ 〜22:00 成果発表 &amp\; LT</p>\n<h2>Lightning Talk発表者募集</h2
+ >\n<p>テーマはフリー、持ち時間は5分程度で発表者を募
+ 集します。<br>\n当日の個人作業とは全く関係のない話
+ でも何でも結構です。  </p>\n<h2>用意するもの</h2>\n<p>ご
+ 自身の作業に必要なものをご用意ください。</p>\n<ul>\n<l
+ i>PC</li>\n<li>本など</li>\n</ul>\n<h2>参加対象者</h2>\n<p>プロ
+ グラミングに限らず何かもくもくと個人作業をしたい
+ 方。<br>\nどなたのご参加も大歓迎です。  </p>\n<h2>参加
+ 申込</h2>\n<p>このページから参加をお申し込みください
+ 。<br>\n特別な事情によりもしイベント中止となった際
+ にはご登録のメールアドレスに連絡が送られます。</p>
+URL:https://fujimokumokukai.connpass.com/event/295775/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:第21回 富士もくもく会  (オフライン & オンライン
+ )
+DTSTART:20230617T133000
+DTEND:20230617T170000
+DESCRIPTION:<h1>富士もくもく会</h1>\n<h2>オフライン ＆ オン
+ ライン開催</h2>\n<p>今回もオンラインとオフラインの両
+ 方で参加を募集します。</p>\n<h2>やること</h2>\n<p>もくも
+ くと個人作業に取り組みます。</p>\n<h2>オンライン会場
+ で参加する場合</h2>\n<p><a href="https://discord.com/" rel="nofollo
+ w">Discord</a>  を利用します。</p>\n<p>Discordのアカウントを
+ お持ちでない方がは、お手数ですが事前にアカウント
+ 登録をお願いします。  </p>\n<p>参加を申し込んだ方に表
+ 示される『参加者への情報 』の欄に招待リンクを記載
+ しています。  </p>\n<p><a href="https://support.discord.com/hc/ja/ar
+ ticles/360041721052-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%93%E3%83%87
+ %E3%82%AA" rel="nofollow">ビデオ通話</a>を利用します。</p>\n<h
+ 2>タイムスケジュール (仮)</h2>\n<p>途中入退室可です</p>\
+ n<p>13:30〜13:40 自己紹介</p>\n<p>13:40〜15:00 個人作業</p>\n<p>
+ 15:00〜15:10 休憩</p>\n<p>15:10〜16:30 個人作業</p>\n<p>16:30〜17
+ :00 成果発表 &amp\; LT</p>\n<h2>Lightning Talk発表者募集</h2>\n<p
+ >テーマはフリー、持ち時間は5分程度で発表者を募集し
+ ます。<br>\n当日の個人作業とは全く関係のない話でも
+ 何でも結構です。  </p>\n<h2>用意するもの</h2>\n<p>ご自身
+ の作業に必要なものをご用意ください。</p>\n<ul>\n<li>PC</
+ li>\n<li>本など</li>\n</ul>\n<h2>参加対象者</h2>\n<p>プログラ
+ ミングに限らず何かもくもくと個人作業をしたい方。<b
+ r>\nどなたのご参加も大歓迎です。  </p>\n<h2>参加申込</h2
+ >\n<p>このページから参加をお申し込みください。<br>\n
+ 特別な事情によりもしイベント中止となった際にはご
+ 登録のメールアドレスに連絡が送られます。</p>
+URL:https://fujimokumokukai.connpass.com/event/286178/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:信玄パイ もくもく会オンライン - Python 以外も OK 
+ - vol.30
+DTSTART:20230614T200000
+DTEND:20230614T220000
+DESCRIPTION:<h1>概要</h1>\n<p>山梨のPythonユーザーコミュニテ
+ ィ\, Shingen.pyです。<br>\n(山梨に限らず、全国からご参加
+ ください!)</p>\n<p><a href="http://Shingen.py" rel="nofollow">Shingen.
+ py</a> 主催のもくもく会を開催いたします。</p>\n<p>オン
+ ラインなので、Discord 上で開催します。</p>\n<h1>概要 2</h
+ 1>\n<p>今回のもくもく会は 20:00 ～ 22:00 まできっちり行
+ います。\n内容は自由です。 Python 以外でも OK です。</p
+ >\n<ul>\n<li>今回はゆるめにやりたいので、自由入場・自
+ 由退場 OK です。</li>\n<li>参加登録してなくても、Discord 
+ 常時開放しているのでいつでも入ってきても OK です。<
+ /li>\n<li>入出場の際は Discord にて Voice または Text でコメ
+ ントしてください。(例: インします。抜けます。みた
+ いな感じで)</li>\n<li>開催時はみなさんには Voice チャン
+ ネルの「教室」にインしていただく想定です。テキス
+ トのみの参加でも OK です。</li>\n<li>徹底的に会話した
+ い方、聞きたい方は 「会議室」の Voice チャンネルがお
+ すすめです。</li>\n</ul>\n<h1>概要 3</h1>\n<p>Discord の URL は
+ 以下です。</p>\n<ul>\n<li><a href="https://discord.gg/GpKPapBJ7e" rel
+ ="nofollow">https://discord.gg/GpKPapBJ7e</a></li>\n</ul>\n<h1>タイム
+ ライン</h1>\n<p>※ スケジュールは変更する可能性があり
+ ます。</p>\n<table>\n<thead>\n<tr>\n<th align="left">時刻</th>\n<th a
+ lign="center">スケジュール</th>\n<th align="right">概要</th>\n</tr
+ >\n</thead>\n<tbody>\n<tr>\n<td align="left">20:00</td>\n<td align="center
+ ">オリエンテーション</td>\n<td align="right">-</td>\n</tr>\n<tr>\
+ n<td align="left">20:10</td>\n<td align="center">もくもく会開始</td
+ >\n<td align="right">-</td>\n</tr>\n<tr>\n<td align="left">22:00</td>\n<td
+  align="center">終了</td>\n<td align="right">-</td>\n</tr>\n</tbody>\n</
+ table>\n<h1>事前準備</h1>\n<p>Discord アカウントと参加まで
+ には Discord サーバにログインしておいてください<br>\nPy
+ thon で質問がある場合は Python3.7 以降の内容にしてくだ
+ さい・・・</p>\n<h1>注意事項</h1>\n<p>ほかの参加者に迷惑
+ になる行為は禁止します。</p>
+URL:https://shingenpy.connpass.com/event/285777/
+END:VEVENT
+END:VCALENDAR
