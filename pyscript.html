@@ -10,11 +10,11 @@
     <h1>PyScript Graph Demo</h1>
     <py-script>
         import asyncio
-        import pyodide
+        from pyscript import loadPackage
 
         async def main():
             # matplotlibをロード
-            await pyodide.loadPackage('matplotlib')
+            await loadPackage('matplotlib')
             import matplotlib.pyplot as plt
 
             # データの作成
