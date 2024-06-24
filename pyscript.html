@@ -8,10 +8,12 @@
 </head>
 <body>
     <h1>PyScript Graph Demo</h1>
-    <py-env>
-        - matplotlib
-    </py-env>
     <py-script>
+        import pyodide
+
+        # matplotlibをロード
+        await pyodide.loadPackage('matplotlib')
+
         import matplotlib.pyplot as plt
 
         # データの作成
