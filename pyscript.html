@@ -9,27 +9,31 @@
 <body>
     <h1>PyScript Graph Demo</h1>
     <py-script>
+        import asyncio
         import pyodide
 
-        # matplotlibをロード
-        await pyodide.loadPackage('matplotlib')
+        async def main():
+            # matplotlibをロード
+            await pyodide.loadPackage('matplotlib')
+            import matplotlib.pyplot as plt
 
-        import matplotlib.pyplot as plt
+            # データの作成
+            x = [1, 2, 3, 4, 5]
+            y = [10, 20, 25, 30, 40]
 
-        # データの作成
-        x = [1, 2, 3, 4, 5]
-        y = [10, 20, 25, 30, 40]
+            # グラフの作成
+            plt.figure(figsize=(8, 6))
+            plt.plot(x, y, marker='o')
+            plt.title('Sample Graph')
+            plt.xlabel('X-axis')
+            plt.ylabel('Y-axis')
+            plt.grid(True)
 
-        # グラフの作成
-        plt.figure(figsize=(8, 6))
-        plt.plot(x, y, marker='o')
-        plt.title('Sample Graph')
-        plt.xlabel('X-axis')
-        plt.ylabel('Y-axis')
-        plt.grid(True)
+            # グラフの表示
+            plt.show()
 
-        # グラフの表示
-        plt.show()
+        # 非同期関数をスケジュール
+        asyncio.ensure_future(main())
     </py-script>
 </body>
 </html>
